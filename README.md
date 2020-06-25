@@ -5,8 +5,8 @@
 ### O Desafio
 O desafio envolve analisar campanhas de marketing de uma institiução bancária. Nas campanhas é vendido ao cliente um produto adicional de débito automático. Queremos saber se um determinado cliente se inscreve ou não ao produto. Portanto, é um problema de classificação:
 
-* 1. cliente se inscreve
-* 2. cliente não se inscreve
+* **1**. cliente se inscreve
+* **2**. cliente não se inscreve
 
 <br>
 
